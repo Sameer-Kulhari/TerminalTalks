@@ -1,7 +1,7 @@
 # Terminal Talks 🎙️💻
 
 **Terminal Talks** is an offline voice-to-terminal helper that listens to simple spoken phrases like “list files” or “make directory” and suggests the correct Linux command to use.
-##Note : Dowload a vosk model ,extract it and rename it to "model" and put in the main folder.This is because github have a upload limit
+#Note : Dowload a vosk model ,extract it and rename it to "model" and put in the main folder.This is because github have a upload limit
 link = https://alphacephei.com/vosk/models
 ## 🌟 Features
 
